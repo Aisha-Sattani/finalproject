@@ -63,5 +63,4 @@ To replicate the collaborative benefits of a team project, I’ll seek feedback 
 ---
 
 ### 7. Additional Course Content  
-Are there any course topics or content you think would be helpful for your project?  
 Content on managing API integrations or deploying web applications could be beneficial. Learning about database optimization or caching mechanisms might also help ensure smooth performance.
